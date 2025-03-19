@@ -2,8 +2,8 @@
 // @name         TDR
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Seleziona una sola riga per email con valori "NO" e invia la mail al cliente
-// @author       You
+// @description  Auto TDR by Salvatore Maurici
+// @author       Salvox
 // @match        http://om1n983/tdrtool/pages/web_portal.php*
 // @grant        none
 // ==/UserScript==
